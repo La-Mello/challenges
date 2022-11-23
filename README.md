@@ -1,5 +1,10 @@
 # challenges
-a repository for online challenges from hackerrank, codechef, g4g and many more
+<h1>a repository for online challenges from 
+  <a href="">hackerrank</a>,
+  <a href="">codechef </a>, 
+  <a href="">g4g </a> 
+  and many more</h1>
+
 <table>
   <thead>
     <tr>
